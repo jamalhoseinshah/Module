@@ -1,2 +1,2 @@
-# module
+# Module
 Important python  methods
