@@ -1,6 +1,7 @@
 
-# spyder.in in located in computer path as link  C:\Users\lc\.spyder-py3\config\syder.ini
-# and i am performed following function of configparser as below step by step.
+""" spyder.in in located in computer path as link  C:\Users\lc\.spyder-py3\config\syder.ini
+and i am performed following function of configparser as below step by step
+"""
 
 
 import configparser
