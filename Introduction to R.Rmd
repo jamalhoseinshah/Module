@@ -25,11 +25,11 @@ output: html_document
 
 #### Start solution ####
 ### 1
-x <- c("i","r","f","a","n")
+x <- c("j","a","m","a","l")
 x
 
 ### 2
-myname <- c("irfan")
+myname <- c("jamal")
 name <- paste('may name is', myname)
 name
 
