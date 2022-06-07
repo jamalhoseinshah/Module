@@ -15,8 +15,7 @@ def test_function():
 
 
 test_function()
-
-################################# OUTPUT #########################################################
+############### OUTPUT ######################
 
 test_function()
 This is the first line
